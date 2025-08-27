@@ -1,0 +1,3 @@
+C:/repos/cmake-low-level-keypress/out/CMakeFiles/ALL_BUILD.dir
+C:/repos/cmake-low-level-keypress/out/CMakeFiles/ZERO_CHECK.dir
+C:/repos/cmake-low-level-keypress/out/cmake-low-level-keypress/CMakeFiles/KeyPress.dir

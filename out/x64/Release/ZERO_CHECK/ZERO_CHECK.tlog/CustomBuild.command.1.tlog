@@ -1,0 +1,10 @@
+^C:\REPOS\CMAKE-LOW-LEVEL-KEYPRESS\OUT\CMAKEFILES\AE275B9DC04C1B2F134474661A2A95EA\GENERATE.STAMP.RULE
+setlocal
+C:\dev\scoop\apps\cmake\current\bin\cmake.exe -SC:/repos/cmake-low-level-keypress -BC:/repos/cmake-low-level-keypress/out --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/repos/cmake-low-level-keypress/out/KeyPress.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

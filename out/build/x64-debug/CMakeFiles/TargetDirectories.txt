@@ -1,0 +1,5 @@
+C:/repos/cmake-low-level-keypress/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/repos/cmake-low-level-keypress/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/repos/cmake-low-level-keypress/out/build/x64-debug/cmake-low-level-keypress/CMakeFiles/KeyPress.dir
+C:/repos/cmake-low-level-keypress/out/build/x64-debug/cmake-low-level-keypress/CMakeFiles/edit_cache.dir
+C:/repos/cmake-low-level-keypress/out/build/x64-debug/cmake-low-level-keypress/CMakeFiles/rebuild_cache.dir

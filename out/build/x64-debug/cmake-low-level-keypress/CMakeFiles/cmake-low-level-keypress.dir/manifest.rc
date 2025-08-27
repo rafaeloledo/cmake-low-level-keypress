@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/repos/cmake-low-level-keypress/out/build/x64-debug/cmake-low-level-keypress/CMakeFiles/cmake-low-level-keypress.dir/embed.manifest"
